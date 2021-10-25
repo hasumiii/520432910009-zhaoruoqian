@@ -8,7 +8,7 @@
 
 ✏️使用readme.md进行作业介绍与说明，可通过图文等形式丰富readme.md中的内容
 
-## “烟花firework”笔刷
+### “烟花firework”笔刷
 
 ### 可实现功能：
 
