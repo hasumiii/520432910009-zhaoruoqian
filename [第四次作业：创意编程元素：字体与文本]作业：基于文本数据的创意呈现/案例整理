@@ -1,0 +1,98 @@
+### 1.文本随光标沿特定路径运动：
+文本追随光标、沿着预先规定的路径进行运动。
+
+- 项目名称：Circular Hello Curves
+- 作者名称：Vamoss
+- 来源：https://openprocessing.org/sketch/697891
+- 概要描述：移动光标，图形周围的文字会沿着图形的边缘、追随光标运动。
+ 
+- 项目名称：Following the Leader
+- 作者名称：Shalker
+- 来源：https://openprocessing.org/sketch/891143
+- 概要描述：文字沿着圆形轨迹进行运动，旋转速度随着光标移动速度改变而变化。
+
+
+### 2.文本模拟物理现象：
+文本以类似现实中的物理现象的方式进行运动。
+
+- 项目名称：Kinect Type-Change
+- 作者名称：Erick Correia
+- 来源：https://openprocessing.org/sketch/785246
+- 概要描述：文字模拟波纹进行运动。
+
+项目名称：waving text
+作者名称：reona396
+来源：https://openprocessing.org/sketch/971848
+概要描述：文字模拟波纹进行运动，扭曲幅度随光标位置改变。
+
+- 项目名称：Kinect Type-Change
+- 作者名称：Emy Villegas
+- 来源：https://openprocessing.org/sketch/899516
+- 概要描述：字母反复上下弹跳。
+
+- 项目名称：TextParticle(pre)
+- 作者名称：p5info.com
+- 来源：https://openprocessing.org/sketch/123127
+- 概要描述：单词“text”在屏幕中的随机位置出现，随即如被风吹散的沙砾般消失。
+
+- 项目名称：Type Mountains (cjko)
+- 作者名称：cjko.ok
+- 来源：https://openprocessing.org/sketch/824642
+- 概要描述：输入的文本内容会以类似山脉的效果呈现在屏幕中。
+
+- 项目名称：textshake
+- 作者名称：carrie chang
+- 来源：https://openprocessing.org/sketch/114374
+- 概要描述：点击鼠标，文本中的字母散开并开始摇晃。
+
+- 项目名称：Mask #2 (hidden writing)
+- 作者名称：Greg Wittmann
+- 来源：https://openprocessing.org/sketch/178037
+- 概要描述：移动光标，圆形的可视范围随光标位置改变而改变，好似聚光灯。
+
+
+### 3.单位元素的聚合：
+较小的单位元素（如粒子、单词等）拼合成具有意义的图形。
+
+- 项目名称：Text Collapse
+- 作者名称：Yali
+- 来源：https://openprocessing.org/sketch/733083
+- 概要描述：点击鼠标，文字开始坍塌。
+
+- 项目名称：Particle Clock
+- 作者名称：Saku
+- 来源：https://openprocessing.org/sketch/696945
+- 概要描述：粒子聚合成表示当前时间的文本，不断分散又聚合，以更新时间。同时，当光标移动至文本中间时，粒子会受光标影响而分散。
+
+- 项目名称：Flow of meanings
+- 作者名称：Sun Young Kim
+- 来源：https://openprocessing.org/sketch/89226
+- 概要描述：相关单词拼接成图形的剪影。
+ 
+
+- 项目名称：MLK Speech
+- 作者名称：Ivan Rudnicki
+- 来源：https://openprocessing.org/sketch/1041737
+- 概要描述：文本内容是马丁路德金的"I Have a Dream"，拼合成马丁路德金的头像。移动鼠标以改变文本的字号和对比度。
+
+
+### 4.文本衍生变形：
+由文本中的字母等元素衍生出随机线条等变化。
+
+- 项目名称：Noisy text
+- 作者名称：Sumangla
+- 来源：https://openprocessing.org/sketch/858895
+- 概要描述：随机曲线从字母边缘蔓延。
+
+- 项目名称：Veiled Text
+- 作者名称：Chad
+- 来源：https://openprocessing.org/sketch/768743
+- 概要描述：随机直线从字母边缘蔓延。
+ 
+
+### 5. 裸眼3D
+
+- 项目名称：text
+- 作者名称：ezra
+- 来源：https://openprocessing.org/sketch/890946
+- 概要描述：裸眼3D，文本内容不断靠近。
