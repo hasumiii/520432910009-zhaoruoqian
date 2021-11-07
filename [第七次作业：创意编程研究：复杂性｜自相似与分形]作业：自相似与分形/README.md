@@ -10,6 +10,6 @@
 
 - 增加“花瓣”数目（通过按动鼠标左键实现）
 
-### 示例草图
+### 示例
 
 https://user-images.githubusercontent.com/90943517/140651864-4c1915ee-dc0b-4216-b873-f7f1523a1abe.mp4
